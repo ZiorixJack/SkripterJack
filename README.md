@@ -1,5 +1,4 @@
-Hello, my name is Jack. I am a active working developer, and I am trying to learn java coding. The only coding language I know is skripting language.
-❤️
+Hello, my name is Jack. I am a active working developer. I know Java, Kotlin, Skript, HTML, etc. ❤️
 
 Contact:
-Discord: jacksxz (I am open to helping people and I accept all friend requests)
+Discord: Ziorix (I am open to helping people and I accept all friend requests)
